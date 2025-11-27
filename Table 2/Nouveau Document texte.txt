@@ -1,0 +1,11 @@
+Test Student 
+
+Determiner si entre 2 groupe , la reponse de traitemennt est statistiquement differensiative ou pas 
+
+Test T 
+
+Test leven
+
+P probabilité d observer ces echantillons dans notre hypothese 
+
+

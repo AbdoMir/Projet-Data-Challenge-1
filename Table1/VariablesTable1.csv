@@ -1,0 +1,18 @@
+Variable,Nom,Classe,Codage,Recodage
+ADMISSION,Patient hospitalise ou ambulatoire,factor,in-patient / out-patient,
+GENDER,Sexe,factor,F/M,
+AGE,Age,num,,année
+ARM,Bras de traitement,factor,BUPRENORPHINE-NALOXONE / CLONIDINE /  SCREEN FAILURE,
+MARITAL,Statut marital,factor,DIVORCED / LEGALLY MARRIED / LIVING WITH PARTNER-COHABITATING / NEVER MARRIED  / SEPARATED / WIDOWED,accompagné/non
+EDUCYRS,Nombre d'annees d'etude (depuis CP),integer,"               ",annee
+EMPLOYMENT,Statut professionnel,factor,"FULL TIME (35+ HRS/WK) / HOMEMAKER /  IN CONTROLLED ENVIRONMENT / PART TIME (IRREGULAR DAYWORK) / PART TIME (REGULAR HOURS) / RETIRED-DISABILITY /  STUDENT                     ",regular/full vs autres
+HEIGHT,Taille (inches),num,,en m
+WEIGHT,Poids (pounds),num,"      ",en kg
+SBP,Pression systolique (mmHg),integer,,
+DBP,Pression diastolique (mmHg),integer,,
+PULSE,Frequence cardiaque (bpm),integer,,
+RESP,Frequence respiratoire (/min),integer,,
+TEMP,Temperature corporelle (�F),num,,en °C
+VAS1.sc,Score Analogique Visuel - debut etude,num,,
+METHADONE.sc,Test urinaire methadone - debut etude,factor,POSITIVE / NEGATIVE,
+MORPHINE.sc,Test urinaire morphine - debut etude,factor,POSITIVE / NEGATIVE,
